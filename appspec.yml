@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /var/www/html/[닉네임]-[gridge-test-id]
+    destination: /var/www/html/dory-26
     overwrite: yes
 permissions:
   - object: /var/www/html/
