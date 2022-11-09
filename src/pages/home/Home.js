@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <Home>
       <Wrap>
-        <h4 style={{color: 'white'}}>항상 {user.name}님을 응원합니다 !</h4>
+        <h4 style={{color: 'white'}}>나는빡빡이다!</h4>
       </Wrap>
       <hr />
       <Wrap>
