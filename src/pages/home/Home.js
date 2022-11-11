@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <Home>
       <Wrap>
-        <h4 style={{color: 'white'}}>나는빡빡이다!</h4>
+        <h4 style={{color: 'white'}}>김도리돼지</h4>
       </Wrap>
       <hr />
       <Wrap>
